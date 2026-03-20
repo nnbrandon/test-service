@@ -1,0 +1,9 @@
+{
+  "info": {
+    "_postman_id": "2040b4d7-6cc6-4840-b9f6-0b7cd649c54d",
+    "name": "payment-service",
+    "description": "This collection was auto-generated via the API Catalog Onboarding process.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": []
+}
